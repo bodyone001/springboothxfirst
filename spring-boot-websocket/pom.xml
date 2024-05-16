@@ -15,7 +15,7 @@
     <url>http://www.hxfist.com</url>
 
    <properties>
-       <hutool.version>4.6.6</hutool.version>
+       <hutool.version>5.8.21</hutool.version>
    </properties>
 
     <dependencies>
